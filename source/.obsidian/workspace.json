@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "577e76a16959cb17",
+    "type": "split",
+    "children": [
+      {
+        "id": "002e30560387452c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7d4b73d62aecf75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front/Table of content.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b870f534535d32f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz-References/Acknowledgments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d23979384dca750",
+    "type": "split",
+    "children": [
+      {
+        "id": "bec699a15f09226e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6935cc234c73de9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "90b8cff6a10a359a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6e226d39ad5b218",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be752798d747f92c",
+    "type": "split",
+    "children": [
+      {
+        "id": "82d52ffe3c39d2fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de78d5bdffc5cc6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Front/Table of content.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bc86cad14734969",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Front/Table of content.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e087281ca4a9f358",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb5e3cfb3a439266",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Front/Table of content.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a7d4b73d62aecf75",
+  "lastOpenFiles": [
+    "Front/Table of content.md",
+    "Front/About this book.md",
+    "2024-07-10.md",
+    "zz-References/Acknowledgments.md",
+    "zz-References/Citations of Research Papers and Books.md",
+    "zz-Appendices/Index.md",
+    "zz-Appendices/Further Reading and Resources.md",
+    "zz-Appendices/Glossary of AI Terms.md",
+    "z-Conclusion/Call to Action- Encouraging Readers to Engage with AI Thoughtfully and Responsibly.md",
+    "z-Conclusion/Final Thoughts- Reflections on the Journey of AI and Its Potential.md",
+    "z-Conclusion/Summary of Key Points- Recap of the Book’s Main Ideas.md",
+    "Part III- The future of AI/Chapter 10- AI and human creativity/Future Possibilities for AI in Creative Industries.md",
+    "Part III- The future of AI/Chapter 10- AI and human creativity/Collaborations Between AI and Artists, Writers, and Musicians.md",
+    "Part III- The future of AI/Chapter 10- AI and human creativity/AI as a tool for enhancing human creativity.md",
+    "Part III- The future of AI/Chapter 9- AI governance and ethics/Balancing Innovation with Responsible AI Use.md",
+    "Part III- The future of AI/Chapter 9- AI governance and ethics/Global Efforts in AI Ethics and Governance.md",
+    "Part III- The future of AI/Chapter 9- AI governance and ethics/The Need for AI Regulation and Policy.md",
+    "Part III- The future of AI/Chapter 8- AI and Employment/Predictions for Future Job Markets.md",
+    "Part III- The future of AI/Chapter 8- AI and Employment/Reskilling and Upskilling the Workforce.md",
+    "Part III- The future of AI/Chapter 8- AI and Employment/The Impact of AI on Jobs and the Economy.md",
+    "Part III- The future of AI/Chapter 7-AI research frontiers/The Role of Quantum Computing in AI’s Future.md",
+    "Part III- The future of AI/Chapter 7-AI research frontiers/Potential Breakthroughs on the Horizon.md",
+    "Part III- The future of AI/Chapter 7-AI research frontiers/Current Cutting-Edge Research in AI.md",
+    "Part II- Recent Advancements/Chapter 6- AI and big data/Privacy Concerns and Data Management Issues.md",
+    "Part II- Recent Advancements/Chapter 6- AI and big data/How Data Drives AI Advancements.md",
+    "Part II- Recent Advancements/Chapter 6- AI and big data/The Symbiotic Relationship between AI and Big Data.md",
+    "zz-References",
+    "zz-Appendices",
+    "z-Conclusion",
+    "Conclusion",
+    "Part III- The future of AI/Chapter 10- AI and human creativity",
+    "Part III- The future of AI/Chapter 9- AI governance and ethics/Untitled",
+    "Part III- The future of AI/Chapter 9- AI governance and ethics",
+    "Part III- The future of AI/Chapter 8- AI and Employment",
+    "Part III- The future of AI/Chapter 7-AI research frontiers",
+    "Part III- The future of AI"
+  ]
+}
