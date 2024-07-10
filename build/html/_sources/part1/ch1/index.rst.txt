@@ -1,0 +1,8 @@
+.. toctree::
+   :maxdepth: 1
+   :caption: Ch 1: The Dawn of AI
+   :titlesonly:
+
+   Early Concepts <Early-Concepts>
+   Key Figures and Milestones <Key-Figures-and-Milestones>
+   The Turing Test and Its Implications <The-Turing-Test-and-Its-Implications>

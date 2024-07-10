@@ -1,4 +1,10 @@
-### The Turing Test and Its Implications
+.. raw:: html
+
+   <label style="color: #888;">Chapter 1: The Dawn of AI</label>
+   <p></p>
+
+The Turing Test and Its Implications
+--------
 
 The Turing Test, proposed by Alan Turing in his seminal 1950 paper "Computing Machinery and Intelligence," stands as one of the most influential concepts in the field of artificial intelligence. Turing's provocative question, "Can machines think?" challenged the conventional understanding of intelligence and laid the groundwork for evaluating machine intelligence.
 
@@ -50,3 +56,7 @@ Despite its limitations, the Turing Test remains a valuable tool for exploring A
 **Conclusion**
 
 The Turing Test, with its focus on behavioral criteria for intelligence, has had a lasting impact on AI research and philosophy. It has inspired generations of researchers to explore the boundaries of machine intelligence and grapple with fundamental questions about the nature of thought and consciousness. While it may not provide a definitive measure of AI, the Turing Test continues to serve as a guiding framework for evaluating the progress and potential of intelligent machines. As we delve further into the history and development of AI, the Turing Test stands as a testament to the enduring quest to understand and replicate human intelligence.
+
+Previous: :doc:`The-Turing-Test-and-Its-Implications`
+
+Next: :doc:`../ch2/The-AI-winters`

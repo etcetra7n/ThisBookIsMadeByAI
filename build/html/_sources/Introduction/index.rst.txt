@@ -1,0 +1,7 @@
+.. toctree::
+   :maxdepth: 1
+   :caption: Introduction
+   :titlesonly:
+
+   Opening Anecdote <Opening-Anecdote>
+   Purpose and Scope <Purpose-and-Scope>

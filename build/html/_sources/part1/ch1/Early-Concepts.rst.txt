@@ -1,3 +1,7 @@
+.. raw:: html
+
+   <label style="color: #888;">Chapter 2: Winter and Revival</label>
+   <p></p>
 
 Early Concepts and Science Fiction Inspirations
 --------
@@ -35,3 +39,7 @@ The official birth of AI as a field of study is often marked by the 1956 Dartmou
 **Conclusion**
 
 The dawn of AI is a story of human curiosity and ambition, fueled by mythological inspirations, philosophical inquiries, and the boundless imagination of science fiction. From ancient myths to the birth of computer science, the journey of AI has been shaped by our desire to understand and replicate the essence of intelligence. As we delve deeper into the history of AI, we will see how these early concepts evolved into the sophisticated technologies that are now transforming our world.
+
+Previous: :doc:`../../Front/About-this-book`
+
+Next: :doc:`Key-Figures-and-Milestones`

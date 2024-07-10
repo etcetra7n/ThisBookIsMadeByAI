@@ -21,10 +21,19 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '.obsidian']
 
 extensions = ['sphinx.ext.autosectionlabel', 'myst_parser']
 
+html_sidebars = {
+    '**': [
+        'globaltoc.html',
+        'relations.html',
+        'sourcelink.html',
+        'searchbox.html'
+    ]
+}
+
 templates_path = ['_templates']
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_book_theme'
+html_theme = 'alabaster' #'sphinx_book_theme'
 html_static_path = ['_static']

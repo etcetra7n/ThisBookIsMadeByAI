@@ -1,4 +1,7 @@
-### Introduction to Deep Learning and Its Significance
+
+
+Introduction to Deep Learning and Its Significance
+------
 
 In recent years, deep learning has emerged as a transformative force in artificial intelligence, revolutionizing how machines perceive, learn, and solve complex problems. This chapter explores the foundational principles, advancements, and societal impact of deep learning, highlighting its significance in shaping the future of AI.
 
